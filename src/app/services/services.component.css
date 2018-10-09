@@ -1,0 +1,28 @@
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+
+.card { 
+    background-color: rgba(245, 245, 245, 0.3);
+}
+
+.card-title {
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	color:#FFFFFF;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
